@@ -1,0 +1,68 @@
+{
+  "company": {
+    "name": "BAKERY",
+    "logo": "images/logo-2.png"
+  },
+  "navigation": [
+    "HOME",
+    "MENU",
+    "ABOUT",
+    "US",
+    "CONTACT US"
+  ],
+  "hero": {
+    "image": "https://images.crowdspring.com/blog/wp-content/uploads/2023/05/16174534/bakery-hero.png",
+    "title": "Freshly Baked, Just for You!",
+    "subtitle": "Warm pastries, artisan breads, and custom cakes baked daily with love.",
+    "ctaText": "Order Now"
+  },
+  "sections": {
+    "gallery": [
+      "https://images.unsplash.com/photo-1720960913348-83475b6b6092?mark=https:%2F%2Fimages.unsplash.com%2Fopengraph%2Flogo.png&mark-w=64&mark-align=top%2Cleft&mark-pad=50&h=630&w=1200&crop=faces%2Cedges&blend-w=1&blend=000000&blend-mode=normal&blend-alpha=10&auto=format&fit=crop&q=60&ixid=M3wxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNzUyMDY3MDM5fA&ixlib=rb-4.1.0",
+      "https://images.unsplash.com/photo-1747459707229-7b1b7c8367e0?mark=https:%2F%2Fimages.unsplash.com%2Fopengraph%2Flogo.png&mark-w=64&mark-align=top%2Cleft&mark-pad=50&h=630&w=1200&crop=faces%2Cedges&blend-w=1&blend=000000&blend-mode=normal&blend-alpha=10&auto=format&fit=crop&q=60&ixid=M3wxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNzQ3ODYxODY2fA&ixlib=rb-4.1.0",
+      "https://media.istockphoto.com/id/916575452/photo/close-up-of-freshly-baked-cakes-and-cupcakes-in-a-row-at-food-market.webp?a=1&b=1&s=612x612&w=0&k=20&c=dxOpModCB1EtdLCHA0rS1ofAuQIlBAta-p9mHfVYK5o=",
+      "https://plus.unsplash.com/premium_photo-1717013091381-ff35a7971834?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "whyChooseUs": {
+      "features": [
+        {
+          "name": "Artisan Breads",
+          "description": "Handcrafted breads made with premium ingredients.",
+          "cta": "VIEW GALLERY",
+          "image": "https://media.istockphoto.com/id/1355957848/photo/artisan-wholegrain-bread-on-wooden-table.jpg?b=1&s=170667a&w=0&k=20&c=RokOQm6cib6gvmqT6nNSM66dUDwzYLykPGKLKp0C_MU="
+        },
+        {
+          "name": "Sweet Pastries",
+          "description": "Deliciously baked pastries that melt in your mouth.",
+          "cta": "VIEW GALLERY",
+          "image": "https://plus.unsplash.com/premium_photo-1715514974066-8be810fbfa12?mark=https:%2F%2Fimages.unsplash.com%2Fopengraph%2Flogo.png&mark-w=64&mark-align=top%2Cleft&mark-pad=50&h=630&w=1200&crop=faces%2Cedges&blend-w=1&blend=000000&blend-mode=normal&blend-alpha=10&auto=format&fit=crop&q=60&ixid=M3wxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNzI2ODI2NDE0fA&ixlib=rb-4.0.3"
+        },
+        {
+          "name": "Custom Cakes",
+          "description": "Personalized cakes for every occasion.",
+          "cta": "VIEW GALLERY",
+          "image": "https://plus.unsplash.com/premium_photo-1714662390433-443073660a26?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Y2FrZXN8ZW58MHx8MHx8fDA%3D"
+        }
+      ],
+      "title": "Why Choose Us?",
+      "description": "Stop by for a warm loaf or order a custom cake for your event. Our shelves are stocked daily."
+    }
+  },
+  "footer": {
+    "bottom": [
+      {
+        "title": "Captive Baking",
+        "description": "Small-batch precision and control. We craft every loaf with care."
+      },
+      {
+        "title": "Heavenly Eating",
+        "description": "Delicious pastries that melt in your mouth — created for joy."
+      }
+    ],
+    "visitUs": "Visit Us Today",
+    "visitUsDescription": "Stop by for a warm loaf or order a custom cake for your event. Our shelves are stocked daily.",
+    "visitUsCta_text": "VISIT US TODAY",
+    "address": "123 Sweet Street, Pastry Town",
+    "phone": "+1-234-567-890"
+  }
+}
